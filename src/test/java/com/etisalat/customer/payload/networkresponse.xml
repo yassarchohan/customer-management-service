@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:NetworkAvailabilityResponse
+        xmlns:ns0="http://www.etisalat.com/schemas/NetworkResourceManagment/Processes/GetNetworkAvailability/Schemas/NetworkAvailabilityResponse.xsd">
+    <ns0:ResponseData>
+        <ns0:TransactionID>1649175189875</ns0:TransactionID>
+        <ns0:NetworkDetails>
+            <ns0:NetworkType>GPON</ns0:NetworkType>
+            <ns0:EID>DX003344093</ns0:EID>
+            <ns0:MDF>OQO</ns0:MDF>
+            <ns0:Cabinet>15</ns0:Cabinet>
+            <ns0:DP>1075</ns0:DP>
+            <ns0:ECD>12/04/2022</ns0:ECD>
+            <ns0:Location>704:63:3541771</ns0:Location>
+            <ns0:Emirate>testemirate</ns0:Emirate>
+            <ns0:Remarks />
+            <ns0:Duration>1</ns0:Duration>
+        </ns0:NetworkDetails>
+        <ns0:FlatDetailsList>
+            <ns0:TotalNumberOfRecords>2</ns0:TotalNumberOfRecords>
+            <ns0:DPNo>9999</ns0:DPNo>
+            <ns0:FlatDetails>
+                <ns0:CabinetNo>691</ns0:CabinetNo>
+                <ns0:CabinetPair>0</ns0:CabinetPair>
+                <ns0:EidNo>DX003344093</ns0:EidNo>
+                <ns0:FlatNo>3541771</ns0:FlatNo>
+                <ns0:IntExchNo>0</ns0:IntExchNo>
+                <ns0:OntCaptureFlag>N</ns0:OntCaptureFlag>
+                <ns0:OntSerialNo>ZNTS035F607A</ns0:OntSerialNo>
+                <ns0:OntType>2424A</ns0:OntType>
+                <ns0:SubTenantNo>0</ns0:SubTenantNo>
+                <ns0:AdditionalInfo>
+                    <ns0:Name>FlatStatus</ns0:Name>
+                    <ns0:Value>HRD</ns0:Value>
+                </ns0:AdditionalInfo>
+            </ns0:FlatDetails>
+        </ns0:FlatDetailsList>
+        <ns0:AdditionalInfo>
+            <ns0:Name>Request Type</ns0:Name>
+            <ns0:Value>Location</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>GL_REF_ID</ns0:Name>
+            <ns0:Value>703565</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>EID_STATUS</ns0:Name>
+            <ns0:Value>Home Ready</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>PARCEL_ID</ns0:Name>
+            <ns0:Value>3450897</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>FDH_TYPE</ns0:Name>
+            <ns0:Value>I</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>IS_SR_ALLOWED</ns0:Name>
+            <ns0:Value>Y</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>NO_SR_REASON</ns0:Name>
+            <ns0:Value />
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>SR_ECD_REMARKS</ns0:Name>
+            <ns0:Value>GPON Ready, less than 7 days</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>LONGITUDE_X</ns0:Name>
+            <ns0:Value>55.27828697</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>LATITUDE_Y</ns0:Name>
+            <ns0:Value>25.19751395</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>FLTE_COVERAGE_TYPE</ns0:Name>
+            <ns0:Value />
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>EID_PROMO_CODE</ns0:Name>
+            <ns0:Value />
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>BUILDING_NAME</ns0:Name>
+            <ns0:Value>DUBAI MALL</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>FLTE_SITE_NAME</ns0:Name>
+            <ns0:Value />
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>FLTE_SITE_SECTOR</ns0:Name>
+            <ns0:Value />
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>FIXED_LTE_3P_ENABLED</ns0:Name>
+            <ns0:Value />
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>TECHNOLOGY_RESPONSE_CODE</ns0:Name>
+            <ns0:Value>A0</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>BUILDING_LOCATION</ns0:Name>
+            <ns0:Value>Dubai - BURJ KHALIFA</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>IS_TAAWUN</ns0:Name>
+            <ns0:Value>N</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>IS_SHARED_NETWORK</ns0:Name>
+            <ns0:Value>N</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>LBM_COMMUNITY_ID</ns0:Name>
+            <ns0:Value>1261</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>REGION_CODE_CRM</ns0:Name>
+            <ns0:Value>DX</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>RADIO_TECHNOLOGY_TYPE</ns0:Name>
+            <ns0:Value />
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>EMIRATE</ns0:Name>
+            <ns0:Value>DXB</ns0:Value>
+        </ns0:AdditionalInfo>
+        <ns0:AdditionalInfo>
+            <ns0:Name>ALT_TECHNOLOGY</ns0:Name>
+            <ns0:Value />
+        </ns0:AdditionalInfo>
+    </ns0:ResponseData>
+    <ns1:AckMessage
+            xmlns:ns1="http://www.etisalat.ae/Middleware/SharedResources/Common/AckMessage.xsd">
+        <ns1:Status>SUCCESS</ns1:Status>
+        <ns1:ErrorCode>TIB-000</ns1:ErrorCode>
+    </ns1:AckMessage>
+</ns0:NetworkAvailabilityResponse>
